@@ -1,0 +1,17 @@
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\bin\Debug\net6.0-windows\sinema_satis_sistemi.exe
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\bin\Debug\net6.0-windows\sinema_satis_sistemi.deps.json
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\bin\Debug\net6.0-windows\sinema_satis_sistemi.runtimeconfig.json
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\bin\Debug\net6.0-windows\sinema_satis_sistemi.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\bin\Debug\net6.0-windows\sinema_satis_sistemi.pdb
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\obj\Debug\net6.0-windows\sinema_satis_sistemi.csproj.AssemblyReference.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\obj\Debug\net6.0-windows\sinema_satis_sistemi.Form1.resources
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\obj\Debug\net6.0-windows\sinema_satis_sistemi.csproj.GenerateResource.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\obj\Debug\net6.0-windows\sinema_satis_sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\obj\Debug\net6.0-windows\sinema_satis_sistemi.AssemblyInfoInputs.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\obj\Debug\net6.0-windows\sinema_satis_sistemi.AssemblyInfo.cs
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\obj\Debug\net6.0-windows\sinema_satis_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\obj\Debug\net6.0-windows\sinema_satis_sistemi.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\obj\Debug\net6.0-windows\refint\sinema_satis_sistemi.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\obj\Debug\net6.0-windows\sinema_satis_sistemi.pdb
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\obj\Debug\net6.0-windows\sinema_satis_sistemi.genruntimeconfig.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\sinema_satis_sistemi\sinema_satis_sistemi\obj\Debug\net6.0-windows\ref\sinema_satis_sistemi.dll
